@@ -1,0 +1,36 @@
+h1{/* Welcome to Fitness studio!! */
+
+    position: absolute;
+    width: 1172px;
+    height: 110px;
+    
+    /* M3/display/large */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 120%;
+    /* or 86px */
+    letter-spacing: -0.03em;
+    
+    color: #000000;
+    
+    }
+    span{/* Мы рады приветствовать вас в Фитнес Пространстве “Fitness studio”. Здесь вы найдете лучшие тренировки, мотивацию и планы питания. */
+
+        position: absolute;
+        width: 1182px;
+        height: 168px;
+        
+        /* M3/display/medium */
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 45px;
+        line-height: 52px;
+        /* or 116% */
+        
+        color: #000000;
+        
+        }
+        
